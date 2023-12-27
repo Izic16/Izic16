@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Izic16
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTNml
-- 💞️ I’m looking to collaborate on a webpage that produces money as profit
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on a webpage that produces money as a profit
 - 📫 How to reach me @rizzic16@gmail.com
 
 <!---
